@@ -1,16 +1,22 @@
-### Hi there 👋
+## Gabe's Personal Page
+Welcome to my GitHub!
 
-<!--
-**GabeCurran/GabeCurran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently studying software engineering at Thaddeus Stevens College of Technology.
+I'm also currently enrolled into Drexel University starting Fall of 2022.
 
-Here are some ideas to get you started:
+## Interests/Experience
+- Web Design
+- JavaScript
+- HTML5
+- CSS
+- PHP
+- Java
+- Python
+- Flutter
+- SQL
+- Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+My main projects so far have been:
+- web based games
+- personal/commercial websites

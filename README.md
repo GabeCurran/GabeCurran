@@ -1,5 +1,4 @@
-## Gabe's Personal Page
-Welcome to my GitHub!
+## Welcome to my GitHub!
 
 I am currently studying software engineering at Thaddeus Stevens College of Technology.
 I'm also currently enrolled into Drexel University starting Fall of 2022.

@@ -1,6 +1,6 @@
 ## Welcome to my GitHub!
 
-I recently graduated from Thaddeus Stevens College of Technology with an associates degree in software engineering. .
+I recently graduated from Thaddeus Stevens College of Technology with an associates degree in software engineering.
 I'm also currently enrolled into Drexel University starting Fall of 2022, for a bachelor's in Computer Science.
 
 ## Interests/Experience
@@ -11,7 +11,7 @@ I'm also currently enrolled into Drexel University starting Fall of 2022, for a 
 - PHP
 - Java
 - Python
-- Flutter
+- Dart
 - SQL
 - Docker
 

@@ -5,6 +5,7 @@ I'm currently studying computer science at Drexel University, as of Fall of 2022
 I've also been working for Ory.sh while I study.
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GabeCurran&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=GabeCurran&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Interests/Experience

@@ -23,4 +23,4 @@ My main projects so far have been:
 - web based games
 - personal/commercial websites
  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GabeCurran&layout=compact&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GabeCurran&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)

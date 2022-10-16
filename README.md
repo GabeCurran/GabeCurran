@@ -4,7 +4,7 @@ I recently graduated from Thaddeus Stevens College of Technology with an associa
 I'm currently studying computer science at Drexel University, as of Fall of 2022.
 I've also been working for Ory.sh while I study.
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GabeCurran&langs_count=8&layout=compact&theme=dark&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GabeCurran&langs_count=12&layout=compact&theme=dark&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=GabeCurran&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 

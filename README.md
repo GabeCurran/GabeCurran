@@ -6,7 +6,7 @@ I've also been working for Ory.sh while I study.
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=GabeCurran&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GabeCurran&hide=python&langs_count=8&layout=compact&theme=dark&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GabeCurran&langs_count=8&layout=compact&theme=dark&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Interests/Experience
 - Web Design

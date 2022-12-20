@@ -22,5 +22,7 @@ I've also been working for [Ory](https://www.ory.sh/) while I study.
 
 ## Projects
 My main projects so far have been:
-- web based games
-- personal/commercial websites
+- [Portfolio Website](https://gabecurran.me/)
+- [Ory Demo](https://ory-demo.com/)
+- [Senior Care App](https://care-of-yore.herokuapp.com/)
+- [Fiora State Machine](https://www.cs.drexel.edu/~gc668/fiora)

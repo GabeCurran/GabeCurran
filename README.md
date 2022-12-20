@@ -18,7 +18,6 @@ I've also been working for [Ory](https://www.ory.sh/) while I study.
 - Python
 - Dart
 - SQL
-- Docker
 
 ## Projects
 My main projects so far have been:

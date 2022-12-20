@@ -16,6 +16,7 @@ I've also been working for [Ory](https://www.ory.sh/) while I study.
 - PHP
 - Java
 - Python
+- Lua
 - Dart
 - SQL
 

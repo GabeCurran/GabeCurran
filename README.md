@@ -2,7 +2,7 @@
 
 I recently graduated from [Thaddeus Stevens College of Technology](https://stevenscollege.edu/) with an associates degree in software engineering.
 I'm currently studying computer science at [Drexel University](https://drexel.edu/), as of Fall of 2022.
-I've also been working for [Ory](https://www.ory.sh/) while I study.
+I've also been working for [Worlds](https://www.worlds.org/) while I study.
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=GabeCurran&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 

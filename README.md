@@ -7,17 +7,27 @@ I've also been working for [Worlds](https://www.worlds.org/) while I study.
 [![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GabeCurran&hide=python&langs_count=8&layout=compact&theme=dark&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Interests/Experience
-- Web Design
 - JavaScript
+- TypeScript
+- React
+- Node
+- Next.js
+- Phaser
 - HTML5
 - CSS
+- Tailwind
 - PHP
+- Laravel
 - Java
 - Python
+- Flask
 - C
 - Lua
+- Solar2D
 - Dart
+- Flutter
 - SQL
+- MongoDB
 
 ## Projects
 My main projects so far have been:

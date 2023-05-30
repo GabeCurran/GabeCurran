@@ -1,8 +1,13 @@
 ## Welcome to my GitHub!
 
-I recently graduated from [Thaddeus Stevens College of Technology](https://stevenscollege.edu/) with an associates degree in software engineering.
+I am a [Thaddeus Stevens College of Technology](https://stevenscollege.edu/) graduate with an associates degree in software engineering.
 I'm currently studying computer science at [Drexel University](https://drexel.edu/), as of Fall of 2022.
 I've also been working for [Worlds](https://www.worlds.org/) while I study.
+
+Most of my work is related to web development, game development, and user authentication.
+
+Learn more on my website:
+[gabecurran.me](https://gabecurran.me/)
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GabeCurran&hide=python&langs_count=8&layout=compact&theme=dark&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
 

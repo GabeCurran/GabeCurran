@@ -21,6 +21,7 @@ I've also been working for [Worlds](https://www.worlds.org/) while I study.
 - Java
 - Python
 - Flask
+- PyGame
 - C
 - Lua
 - Solar2D

@@ -32,6 +32,7 @@ I've also been working for [Worlds](https://www.worlds.org/) while I study.
 
 ## Projects
 My main projects so far have been:
+- [Ory Elements Next.js Example](https://github.com/ory/elements/tree/main/examples%2Fnextjs-spa)
 - [Portfolio Website](https://gabecurran.me/)
 - [Ory Demo](https://ory-demo.com/)
 - [Senior Care App](https://care-of-yore.herokuapp.com/)

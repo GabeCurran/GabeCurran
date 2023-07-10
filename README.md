@@ -9,7 +9,7 @@ Most of my work is related to web development, game development, and user authen
 Learn more on my website:
 [gabecurran.me](https://gabecurran.me/)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GabeCurran&hide=python&langs_count=8&layout=compact&theme=dark&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GabeCurran&langs_count=8&layout=compact&theme=dark&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Interests/Experience
 - JavaScript

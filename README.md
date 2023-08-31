@@ -2,7 +2,7 @@
 
 I am a [Thaddeus Stevens College of Technology](https://stevenscollege.edu/) graduate with an associates degree in software engineering.
 I'm currently studying computer science at [Drexel University](https://drexel.edu/), as of Fall of 2022.
-I've also been working for [Worlds](https://www.worlds.org/) while I study.
+I've also been working while I study.
 
 Most of my work is related to web development, game development, and user authentication.
 

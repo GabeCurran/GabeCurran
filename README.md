@@ -1,29 +1,44 @@
 ## Welcome to my GitHub!
 
-I recently graduated from [Thaddeus Stevens College of Technology](https://stevenscollege.edu/) with an associates degree in software engineering.
+I am a [Thaddeus Stevens College of Technology](https://stevenscollege.edu/) graduate with an associates degree in software engineering.
 I'm currently studying computer science at [Drexel University](https://drexel.edu/), as of Fall of 2022.
+I've also been working while I study.
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=GabeCurran&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+Most of my work is related to web development, game development, and user authentication.
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GabeCurran&hide=python&langs_count=8&layout=compact&theme=dark&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
+Learn more on my website:
+[gabecurran.me](https://gabecurran.me/)
 
 ## Interests/Experience
-- Web Design
 - JavaScript
+- TypeScript
+- React
+- Node
+- Next.js
+- Phaser
 - HTML5
 - CSS
+- Tailwind
 - PHP
+- Laravel
 - Java
 - Python
+- Flask
+- PyGame
 - C
 - Lua
+- Solar2D
 - Dart
+- Flutter
 - SQL
+- MongoDB
 
 ## Projects
 My main projects so far have been:
+- [Ory Elements Next.js Example](https://github.com/ory/elements/tree/main/examples%2Fnextjs-spa)
 - [Portfolio Website](https://gabecurran.me/)
 - [Player Portal](https://portal.wtf.gg/)
 - [Ory Demo](https://ory-demo.com/)
+- [Automotive Website/Blog](https://github.com/GabeCurran/mccomsey)
 - [Senior Care App](https://care-of-yore.herokuapp.com/)
 - [Fiora State Machine](https://www.cs.drexel.edu/~gc668/fiora)

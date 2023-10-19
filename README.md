@@ -2,7 +2,6 @@
 
 I recently graduated from [Thaddeus Stevens College of Technology](https://stevenscollege.edu/) with an associates degree in software engineering.
 I'm currently studying computer science at [Drexel University](https://drexel.edu/), as of Fall of 2022.
-I've also been working for [Worlds](https://www.worlds.org/) while I study.
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=GabeCurran&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -24,6 +23,7 @@ I've also been working for [Worlds](https://www.worlds.org/) while I study.
 ## Projects
 My main projects so far have been:
 - [Portfolio Website](https://gabecurran.me/)
+- [Player Portal](https://portal.wtf.gg/)
 - [Ory Demo](https://ory-demo.com/)
 - [Senior Care App](https://care-of-yore.herokuapp.com/)
 - [Fiora State Machine](https://www.cs.drexel.edu/~gc668/fiora)

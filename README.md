@@ -15,13 +15,8 @@ Resume: [PDF](https://gabecurran.me/GabeCurranResume.pdf)
 - Testing: Playwright, Selenium
 
 ## Some of My Projects
-- Portfolio Website — Personal site with projects, skills, and contact. [gabecurran.me](https://gabecurran.me/)
 - LingoLyrics — Lyric translations & annotations. Built with TypeScript, Next.js, Tailwind, OpenAI API. [lingolyrics.vercel.app](https://lingolyrics.vercel.app/)
 - Starworks Studios — Unity game developed with a student team; early game design and core networking work. [Starworks Studios](https://www.starworks-studios.com/)
 - Senior Care App — Laravel + MySQL app for roles, permissions, and data management. [care-of-yore.herokuapp.com](https://care-of-yore.herokuapp.com/)
 
 Additional: [Automotive Website/Blog](https://github.com/GabeCurran/mccomsey), [Fiora State Machine](https://www.cs.drexel.edu/~gc668/fiora)
-
-## Get in touch
-- Website: [gabecurran.me](https://gabecurran.me/)
-- GitHub: [@GabeCurran](https://github.com/GabeCurran)

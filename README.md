@@ -1,44 +1,27 @@
 ## Welcome to my GitHub!
 
-I am a [Thaddeus Stevens College of Technology](https://stevenscollege.edu/) graduate with an associates degree in software engineering.
-I'm currently studying computer science at [Drexel University](https://drexel.edu/), as of Fall of 2022.
-I've also been working while I study.
+I’m a software engineer and database developer passionate about web, games, and identity/auth. I earned an Associate's of Applied Science degree in Software Engineering from [Thaddeus Stevens College of Technology](https://stevenscollege.edu/) and a Bachelor's of Science in Computer Science from [Drexel University](https://drexel.edu/). I like to make things and collaborate on projects, so check out my repos!
 
-Most of my work is related to web development, game development, and user authentication.
+Learn more on my website: [gabecurran.me](https://gabecurran.me/)
 
-Learn more on my website:
-[gabecurran.me](https://gabecurran.me/)
+Resume: [PDF](https://gabecurran.me/GabeCurranResume.pdf)
 
-## Interests/Experience
-- JavaScript
-- TypeScript
-- React
-- Node
-- Next.js
-- Phaser
-- HTML5
-- CSS
-- Tailwind
-- PHP
-- Laravel
-- Java
-- Python
-- Flask
-- PyGame
-- C
-- Lua
-- Solar2D
-- Dart
-- Flutter
-- SQL
-- MongoDB
+## Skills
+- Languages: JavaScript/TypeScript, Python, PHP, Dart, Java, C, C#, Lua, HTML, CSS/Tailwind
+- Frameworks & Runtimes: React (Next.js), Node.js, Express, Vue, Angular, Laravel, Flask, Flutter, Unity, Solar2D
+- Databases: PostgreSQL, MySQL, SQL Server, SQLite, MongoDB
+- Auth & Policy: Ory (Kratos, Hydra, Elements, Cloud, SDKs), Oso, Descope
+- DevOps & Tooling: Docker, GitHub, Azure DevOps, Bash/PowerShell, npm, Docusaurus
+- Testing: Playwright, Selenium
 
-## Projects
-My main projects so far have been:
-- [Ory Elements Next.js Example](https://github.com/ory/elements/tree/main/examples%2Fnextjs-spa)
-- [Portfolio Website](https://gabecurran.me/)
-- [Player Portal](https://portal.wtf.gg/)
-- [Ory Demo](https://ory-demo.com/)
-- [Automotive Website/Blog](https://github.com/GabeCurran/mccomsey)
-- [Senior Care App](https://care-of-yore.herokuapp.com/)
-- [Fiora State Machine](https://www.cs.drexel.edu/~gc668/fiora)
+## Some of My Projects
+- Portfolio Website — Personal site with projects, skills, and contact. [gabecurran.me](https://gabecurran.me/)
+- LingoLyrics — Lyric translations & annotations. Built with TypeScript, Next.js, Tailwind, OpenAI API. [lingolyrics.vercel.app](https://lingolyrics.vercel.app/)
+- Starworks Studios — Unity game developed with a student team; early game design and core networking work. [Starworks Studios](https://www.starworks-studios.com/)
+- Senior Care App — Laravel + MySQL app for roles, permissions, and data management. [care-of-yore.herokuapp.com](https://care-of-yore.herokuapp.com/)
+
+Additional: [Automotive Website/Blog](https://github.com/GabeCurran/mccomsey), [Fiora State Machine](https://www.cs.drexel.edu/~gc668/fiora)
+
+## Get in touch
+- Website: [gabecurran.me](https://gabecurran.me/)
+- GitHub: [@GabeCurran](https://github.com/GabeCurran)

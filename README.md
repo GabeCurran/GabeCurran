@@ -1,22 +1,26 @@
 ## Welcome to my GitHub!
 
-I’m a software engineer and database developer passionate about web, games, and identity/auth. I earned an Associate's of Applied Science degree in Software Engineering from [Thaddeus Stevens College of Technology](https://stevenscollege.edu/) and a Bachelor's of Science in Computer Science from [Drexel University](https://drexel.edu/). I like to make things and collaborate on projects, so check out my repos!
+I'm a software engineer working on web apps, enterprise data platforms, and multiplayer games. Currently building internal developer tooling for [WebstaurantStore](https://www.webstaurantstore.com/)'s DB/BI teams and working on multiplayer networking for a Unity game at [Starworks Studios](https://starworks-studios.com/). I earned a BS in Computer Science from [Drexel University](https://drexel.edu/) and an AAS in Software Engineering from [Thaddeus Stevens College of Technology](https://stevenscollege.edu/) (Magna Cum Laude).
 
-Learn more on my website: [gabecurran.me](https://gabecurran.me/)
-
-Resume: [PDF](https://gabecurran.me/GabeCurranResume.pdf)
+More at [gabecurran.me](https://gabecurran.me/), or grab my resume: [PDF](https://gabecurran.me/GabeCurranResume.pdf).
 
 ## Skills
-- Languages: JavaScript/TypeScript, Python, PHP, Dart, Java, C, C#, Lua, HTML, CSS/Tailwind
-- Frameworks & Runtimes: React (Next.js), Node.js, Express, Vue, Angular, Laravel, Flask, Flutter, Unity, Solar2D
-- Databases: PostgreSQL, MySQL, SQL Server, SQLite, MongoDB
-- Auth & Policy: Ory (Kratos, Hydra, Elements, Cloud, SDKs), Oso, Descope
-- DevOps & Tooling: Docker, GitHub, Azure DevOps, Bash/PowerShell, npm, Docusaurus
-- Testing: Playwright, Selenium
+- **Languages:** TypeScript, JavaScript, SQL, C#, Python, Java, PHP, C, Dart, Lua, HTML, CSS
+- **Frontend:** React, Next.js, Tailwind, Three.js, WebGL, Electron, Angular, Vue.js, Flutter
+- **Backend:** Node.js, Express, .NET, Laravel, Flask, Prisma, SSE, stored procedures, CDC, Liquibase
+- **Databases:** PostgreSQL, MySQL, SQL Server, SQLite, MongoDB, Supabase
+- **Orchestration:** Apache Airflow, Qlik, Docker
+- **Games:** Unity, Phaser, Three.js
+- **Auth:** Ory, Oso, Descope, Supabase
+- **DevOps:** Azure DevOps, GitHub, Vercel, Bash, PowerShell, npm, Docusaurus
+- **Testing:** Playwright, Vitest, Selenium
 
-## Some of My Projects
-- LingoLyrics — Lyric translations & annotations. Built with TypeScript, Next.js, Tailwind, OpenAI API. [lingolyrics.vercel.app](https://lingolyrics.vercel.app/)
-- Starworks Studios — Unity game developed with a student team; early game design and core networking work. [Starworks Studios](https://www.starworks-studios.com/)
-- Senior Care App — Laravel + MySQL app for roles, permissions, and data management. [care-of-yore.herokuapp.com](https://care-of-yore.herokuapp.com/)
+## Featured Projects
+- **[LingoLyrics](https://lingolyrics.vercel.app/):** Live AI-powered lyric translator and annotator.
+- **[Revelations](https://revelations.quest/):** Web-based PvP dueling game built with Three.js and WebGL.
+- **[PokeDnD](https://pokednd.live/):** Real-time multiplayer Pokémon D&D web app.
+- **[Starworks Studios](https://starworks-studios.com/):** The studio's public marketing site.
+- **[Blockverse](https://blockverseproductions.com/):** Marketing site for a Roblox game, delivered under a Starworks contract.
+- **[gen1ify](https://modrinth.com/datapack/gen1ify):** A Cobblemon datapack that turns Minecraft into a Gen 1 Pokémon experience.
 
-Additional: [Automotive Website/Blog](https://github.com/GabeCurran/mccomsey), [Fiora State Machine](https://www.cs.drexel.edu/~gc668/fiora)
+See [gabecurran.me](https://gabecurran.me/) for the full list with screenshots and more detail.
